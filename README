@@ -1,0 +1,5 @@
+This is the README file for rivendell-testdb
+
+Rivendell-testdb is a normalized Rivendell database/audiostore intended for
+use in conducting standardized regression tests of the Rivendell Radio
+Automation System.
